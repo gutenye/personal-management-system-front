@@ -1,0 +1,10 @@
+services:
+  main:
+    image: gutenye/personal-management-system-front
+    build:
+      dockerfile: Dockerfile.guten
+      platforms:
+        - linux/arm64   
+        - linux/amd64
+    ports:
+      - 4000:80

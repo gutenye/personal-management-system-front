@@ -1,1 +1,1 @@
-var a="/assets/caret-square-up-solid.e6b029ac.svg";export{a as default};
+var a="/assets/caret-square-up.e6b029ac.svg";export{a as default};

@@ -1,1 +1,1 @@
-var s="/assets/angry-solid.286417b6.svg";export{s as default};
+var a="/assets/angry.286417b6.svg";export{a as default};
