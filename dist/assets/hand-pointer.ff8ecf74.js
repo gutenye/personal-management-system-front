@@ -1,1 +1,1 @@
-var s="/assets/hand-pointer-solid.83d28021.svg";export{s as default};
+var a="/assets/hand-pointer.83d28021.svg";export{a as default};

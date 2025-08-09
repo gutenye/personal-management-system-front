@@ -1,1 +1,1 @@
-var s="/assets/gem-solid.de1d158a.svg";export{s as default};
+var a="/assets/gem.de1d158a.svg";export{a as default};

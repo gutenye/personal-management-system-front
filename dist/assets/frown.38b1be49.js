@@ -1,1 +1,1 @@
-var s="/assets/frown.9d02802e.svg";export{s as default};
+var s="/assets/frown-solid.9d02802e.svg";export{s as default};
